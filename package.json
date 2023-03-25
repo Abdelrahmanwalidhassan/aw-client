@@ -1,0 +1,27 @@
+{
+  "name": "aw-client",
+  "version": "0.0.0",
+  "description": "a helper client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelrahmanwalidhassan/aw-client.git"
+  },
+  "keywords": [
+    "client",
+    "discord",
+    "discord.js",
+    "djs",
+    "express",
+    "server"
+  ],
+  "author": "Abdulrahman Walid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdelrahmanwalidhassan/aw-client/issues"
+  },
+  "homepage": "https://github.com/Abdelrahmanwalidhassan/aw-client#readme"
+}
